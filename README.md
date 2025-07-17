@@ -8,4 +8,4 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 
 
 Screenshot of project- 
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/aish199820/Madhavstore/blob/main/Madhavstore_screenshot.png)
