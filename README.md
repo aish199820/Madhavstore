@@ -8,4 +8,4 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 
 
 Screenshot of project- 
-![Dashboard_preview].()
+![Dashboard_preview].(https://github.com/aish199820/Madhavstore/blob/main/Madhavstore_screenshot.png).
